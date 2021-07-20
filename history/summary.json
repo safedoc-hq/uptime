@@ -4,19 +4,19 @@
     "url": "https://api.docpile.io/healthcheck",
     "icon": "https://favicons.githubusercontent.com/api.docpile.io",
     "slug": "doc-pile-core-api",
-    "status": "down",
-    "uptime": "79.99%",
-    "uptimeDay": "79.99%",
-    "uptimeWeek": "79.99%",
-    "uptimeMonth": "79.99%",
-    "uptimeYear": "79.99%",
-    "time": 251,
-    "timeDay": 251,
-    "timeWeek": 251,
-    "timeMonth": 251,
-    "timeYear": 251,
+    "status": "up",
+    "uptime": "79.24%",
+    "uptimeDay": "79.24%",
+    "uptimeWeek": "79.24%",
+    "uptimeMonth": "79.24%",
+    "uptimeYear": "79.24%",
+    "time": 248,
+    "timeDay": 248,
+    "timeWeek": 248,
+    "timeMonth": 248,
+    "timeYear": 248,
     "dailyMinutesDown": {
-      "2021-07-20": 239
+      "2021-07-20": 250
     }
   },
   {
