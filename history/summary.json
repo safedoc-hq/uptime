@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 366,
-    "timeWeek": 300,
-    "timeMonth": 261,
-    "timeYear": 281,
+    "timeDay": 165,
+    "timeWeek": 278,
+    "timeMonth": 256,
+    "timeYear": 280,
     "dailyMinutesDown": {
       "2022-03-02": 16
     }
@@ -25,18 +25,19 @@
     "icon": "https://favicons.githubusercontent.com/account.docpile.io",
     "slug": "doc-pile-account",
     "status": "down",
-    "uptime": "5.27%",
+    "uptime": "5.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.35%",
-    "time": 237,
-    "timeDay": 1148,
-    "timeWeek": 574,
-    "timeMonth": 325,
+    "uptimeYear": "0.07%",
+    "time": 236,
+    "timeDay": 91,
+    "timeWeek": 564,
+    "timeMonth": 324,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2022-08-08": 56,
+      "2022-08-09": 63,
+      "2022-08-08": 1440,
       "2022-08-07": 1440,
       "2022-08-06": 1440,
       "2022-08-05": 1440,
@@ -399,8 +400,7 @@
       "2021-08-13": 1440,
       "2021-08-12": 1440,
       "2021-08-11": 1440,
-      "2021-08-10": 1440,
-      "2021-08-09": 1008
+      "2021-08-10": 1440
     }
   }
 ]
