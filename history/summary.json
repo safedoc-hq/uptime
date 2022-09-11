@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/api.docpile.io",
     "slug": "doc-pile-core-api",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 115,
-    "timeWeek": 198,
-    "timeMonth": 230,
+    "time": 275,
+    "timeDay": 338,
+    "timeWeek": 223,
+    "timeMonth": 228,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2022-03-02": 16
@@ -25,18 +25,19 @@
     "icon": "https://favicons.githubusercontent.com/account.docpile.io",
     "slug": "doc-pile-account",
     "status": "down",
-    "uptime": "4.85%",
+    "uptime": "4.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 248,
-    "timeDay": 689,
-    "timeWeek": 299,
-    "timeMonth": 389,
-    "timeYear": 248,
+    "time": 247,
+    "timeDay": 100,
+    "timeWeek": 290,
+    "timeMonth": 385,
+    "timeYear": 249,
     "dailyMinutesDown": {
-      "2022-09-10": 72,
+      "2022-09-11": 68,
+      "2022-09-10": 1440,
       "2022-09-09": 1440,
       "2022-09-08": 1440,
       "2022-09-07": 1440,
@@ -399,8 +400,7 @@
       "2021-09-15": 1440,
       "2021-09-14": 1440,
       "2021-09-13": 1440,
-      "2021-09-12": 1440,
-      "2021-09-11": 1440
+      "2021-09-12": 1440
     }
   }
 ]
