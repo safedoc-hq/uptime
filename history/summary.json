@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 277,
+    "time": 276,
     "timeDay": 134,
-    "timeWeek": 286,
+    "timeWeek": 261,
     "timeMonth": 267,
-    "timeYear": 278,
+    "timeYear": 277,
     "dailyMinutesDown": {
       "2022-03-02": 16
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/account.docpile.io.ico",
     "slug": "doc-pile-account",
     "status": "down",
-    "uptime": "4.60%",
+    "uptime": "4.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 250,
-    "timeDay": 98,
+    "time": 249,
+    "timeDay": 149,
     "timeWeek": 191,
     "timeMonth": 290,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2022-10-03": 69,
+      "2022-10-04": 77,
+      "2022-10-03": 1440,
       "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
@@ -399,8 +400,7 @@
       "2021-10-08": 1440,
       "2021-10-07": 1440,
       "2021-10-06": 1440,
-      "2021-10-05": 1440,
-      "2021-10-04": 1440
+      "2021-10-05": 1440
     }
   }
 ]
