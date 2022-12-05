@@ -4,7 +4,7 @@
     "url": "https://api.docpile.io/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.docpile.io.ico",
     "slug": "doc-pile-core-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 251,
     "timeYear": 262,
     "dailyMinutesDown": {
+      "2022-12-05": 0,
       "2022-03-02": 16
     }
   },
@@ -36,7 +37,7 @@
     "timeMonth": 297,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2022-12-05": 50,
+      "2022-12-05": 1185,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
       "2022-12-02": 1440,
