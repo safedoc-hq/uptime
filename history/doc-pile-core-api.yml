@@ -1,7 +1,7 @@
 url: https://api.docpile.io/healthcheck
 status: down
 code: 503
-responseTime: 383
-lastUpdated: 2023-01-30T23:14:31.204Z
+responseTime: 232
+lastUpdated: 2023-01-31T23:13:57.338Z
 startTime: Tue Jul 20 2021 01:29:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
