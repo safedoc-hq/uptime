@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.docpile.io.ico",
     "slug": "doc-pile-core-api",
     "status": "down",
-    "uptime": "77.07%",
+    "uptime": "76.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.72%",
+    "uptimeYear": "56.44%",
     "time": 260,
-    "timeDay": 461,
-    "timeWeek": 338,
-    "timeMonth": 287,
+    "timeDay": 0,
+    "timeWeek": 375,
+    "timeMonth": 286,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2023-06-12": 57,
+      "2023-06-13": 54,
+      "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
@@ -190,12 +191,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 304,
-    "timeDay": 265,
-    "timeWeek": 233,
-    "timeMonth": 251,
+    "timeDay": 0,
+    "timeWeek": 247,
+    "timeMonth": 253,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2023-06-12": 57,
+      "2023-06-13": 54,
+      "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
@@ -558,8 +560,7 @@
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
-      "2022-06-14": 1440,
-      "2022-06-13": 1440
+      "2022-06-14": 1440
     }
   }
 ]
